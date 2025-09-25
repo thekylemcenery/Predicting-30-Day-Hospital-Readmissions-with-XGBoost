@@ -32,6 +32,7 @@ This project develops a predictive model to estimate the risk of 30-day hospital
   - `feature_importance.xlsx` → importance of each feature by gain  
   - `patient_risk.xlsx` → patient ID, predicted probability, and risk group  
 - **Visualizations:** feature importance plots (customizable dark background)  
+<img width="696" height="387" alt="Figure 2025-09-25 165459" src="https://github.com/user-attachments/assets/eb9bdd94-6b02-4675-865f-507bc20c967a" />
 
 ## Applications in Healthcare Consulting
 - Targeted care management for high-risk patients  
